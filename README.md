@@ -1,2 +1,9 @@
-# my-word-counter-app-14
-A simple word counter project
+# Word Counter
+
+A simple word counter project.
+\n
+## Getting Started
+
+```bash
+python word.py
+```
